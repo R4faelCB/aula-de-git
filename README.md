@@ -12,4 +12,17 @@ git push -u origin main
 ```
 <hr/>
 
+### Comandos de git
+```bash
+git checkout -b "nome da brench"
+git checkout "nome da brench"
+git merge
+git commit -m "titulo" -m "subtitulos/comentario"
+git push 
+git add .
+git pull
+git clone "local do git para clonar"
+
+```
+
 ###### Desenvolvedor: Rafael C. Bezerra

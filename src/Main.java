@@ -1,14 +1,9 @@
 public class Main {
-
-    public static int somar(int num1, int num2) {
-        return num1 + num2;
-    }
-
     public static void main(String[] args) {
-        System.out.println("Olá, GitHub!");
-
-        int result = somar(5, 6);
-        System.out.println(result);
-
+        pessoa pessoa1 = new pessoa();
+        pessoa1.nome = "Rafael";
+        pessoa1.idade = 22;
+        System.out.println(pessoa1.nome);
+        System.out.println(pessoa1.idade);
     }
 }
