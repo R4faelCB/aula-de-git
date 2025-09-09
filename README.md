@@ -12,9 +12,4 @@ git push -u origin main
 ```
 <hr/>
 
-
-
-
-
-
 ###### Desenvolvedor: Rafael C. Bezerra
